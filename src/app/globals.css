@@ -3,9 +3,9 @@
 body {
   background: 
   repeating-conic-gradient(
-    #FEF8FF 0deg 25%, 
+    #FADBFF 0deg 25%, 
     white 0deg 50%);
-background-size: 90px 90px;
+background-size: 120px 120px;
 }
 
 h1, h2 {
